@@ -11,8 +11,8 @@ StoreAnything is an simple application where you can store any json object.
 
 3. DB Setup
 This project is based on a MS SQL. In order to setup the database you could use
-a. */Installation/StoreAnynthing.bak* file to restore the database
-b. Entity Framework migrations by running the bellow command
+	1. */Installation/StoreAnynthing.bak* file to restore the database
+	2. Entity Framework migrations by running the bellow command
 `dotnet ef database update`
 
 4. Use the bellow command to execute the application
